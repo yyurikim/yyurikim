@@ -1,5 +1,6 @@
 
-![manja-vitolic-gKXKBY-C-Dk-unsplash](https://github.com/yyurikim/yyurikim/assets/156268560/e5639c29-3df4-4ac8-87b5-89d44b14d2e5)
+![cedric-vt-IuJc2qh2TcA-unsplash](https://github.com/yyurikim/yyurikim/assets/156268560/3f4af335-2a1c-4183-93f5-bd19975d99a1)
+
 
 # 기술스택
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
